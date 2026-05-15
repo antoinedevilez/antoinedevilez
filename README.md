@@ -1,6 +1,6 @@
 <!-- BANNIÈRE ANIMÉE EN HAUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20,24,30&height=220&section=header&text=Antoine&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=engineer.exe%20is%20running...&descAlignY=62&descSize=18&animation=fadeIn&reversal=true" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:64ffda&height=200&section=header&text=Antoine&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Microengineering%20@%20EPFL&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
 </p>
 
 <!-- TYPING SVG ANIMÉ -->
@@ -17,10 +17,8 @@
 
 ```yaml
 location:    Lausanne, Switzerland 🇨🇭
-origin:      France 🇫🇷 → Virginia, USA 🇺🇸 → EPFL
-studying:    BA2 Microtechnique
-building:    StudyEPFL — a study companion for BA1 students
-trajectory:  EPFL → PhD → ESA 🚀
+origin:      France 🇫🇷  → EPFL
+studying:    BSc Microengineering @ EPFL
 ```
 
 <br>
@@ -65,9 +63,8 @@ trajectory:  EPFL → PhD → ESA 🚀
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,20,12,2&height=120&section=footer&reversal=true" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,50:1e3a5f,100:0a192f&height=120&section=footer" alt="footer"/>
 </p>
-
 <p align="center">
   <i>« Per aspera ad astra »</i>
 </p>
