@@ -42,10 +42,7 @@ studying:    BSc Microengineering @ EPFL
 <!-- STATS -->
 ## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoinedevilez&show_icons=true&theme=synthwave&hide_border=true&title_color=fe428e&icon_color=f8d847&text_color=a9fef7&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedevilez&layout=compact&theme=synthwave&hide_border=true&title_color=fe428e&text_color=a9fef7&cache_seconds=86400" height="170"/>
-</p>
+
 
 <!-- TROPHÉES -->
 <p align="center">
