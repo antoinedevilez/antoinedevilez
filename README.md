@@ -1,12 +1,12 @@
 <!-- BANNIÈRE ANIMÉE EN HAUT -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,2,20,30&height=220&section=header&text=antoine&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=engineer.exe%20is%20running...&descAlignY=60&descSize=18&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12,20,24,30&height=220&section=header&text=Antoine&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=engineer.exe%20is%20running...&descAlignY=62&descSize=18&animation=fadeIn&reversal=true" alt="header"/>
 </p>
 
 <!-- TYPING SVG ANIMÉ -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Microengineering+student+%40+EPFL;sudo+make+me+an+engineer;404%3A+sleep+not+found;writing+code+that+almost+always+compiles;currently+debugging+my+life;%24+whoami+%E2%86%92+still+figuring+it+out" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Microengineering+student+%40+EPFL;git+commit+-m+%22I'll+fix+it+later%22;cogito+ergo+segfault;BSc+loading...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+25%25" alt="Typing SVG" />
   </a>
 </p>
 
@@ -49,10 +49,6 @@ trajectory:  EPFL → PhD → ESA 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoinedevilez&layout=compact&theme=synthwave&hide_border=true&title_color=fe428e&text_color=a9fef7" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=antoinedevilez&theme=synthwave&hide_border=true&stroke=fe428e&ring=fe428e&fire=f8d847&currStreakLabel=fe428e" height="170"/>
-</p>
-
 <!-- TROPHÉES -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=antoinedevilez&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15" />
@@ -69,7 +65,7 @@ trajectory:  EPFL → PhD → ESA 🚀
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,30,12,2&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,24,20,12,2&height=120&section=footer&reversal=true" alt="footer"/>
 </p>
 
 <p align="center">
